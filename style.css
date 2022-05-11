@@ -1,3 +1,19 @@
+header{
+	width: 80%;
+	vertical-align: center;
+	border: 10px solid #ccc;
+	border-radius: 10px;
+	
+}
+
+#banniere{
+	background-image: url("banniere.png");
+    height: 100px;
+	width: 50%;
+	margin: auto;
+    
+	}	
+
 h1{
    color: red;
    font-size: 30px;
@@ -26,7 +42,7 @@ font-size: 25px;
 	display: inline-block;
 	margin: 20 40 3 40px;
 	background: Black;
-	width: 120px;
+	width: 200px;
 	text-decoration: none;
 	color: red;
 	height: 30px;
@@ -36,7 +52,7 @@ font-size: 25px;
 	font-size: 28px;
 }
 
-#nav a: hover:first-child{background: white
+#nav a: hover:first-child{background: white;
 
 }
 
@@ -46,10 +62,11 @@ font-size: 25px;
 
 table{
 		border: 2px solid black;
-	}
+}
+
 caption{
 	font-size: 30px;
-	color: #FD6C9E;
+	color: red;
 	text-decoration: underline;
 	padding-bottom: 10px;
 		
@@ -62,20 +79,35 @@ th{
 	
 	
 }
+tr{
+	border: 1px dotted solid black;
+	
+}
+
 
 #interv{
 	background-color: yellow;   
 	
 }
-
-
-	
-		
-
-	
-} 
+ 
 	
  td{
-        border: 1px dotted red; 		 
+        border: 1px dotted black; 		 
 	
 }
+
+footer { 
+        background: black;
+		width:90%;
+		justify-content: center;
+		padding: 15px;
+		margin-left: auto;
+		margin-right: auto;
+}
+#p1{
+	font-size: 20px;
+	color: white;
+	text-align: center;  
+}
+
+

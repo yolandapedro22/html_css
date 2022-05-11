@@ -1,0 +1,81 @@
+h1{
+   color: red;
+   font-size: 30px;
+}
+
+
+h2{
+	color: green;
+
+font-size: 25px;
+}
+
+#nav {
+	padding: 0; margin: 0;
+	text-align: center;
+}
+
+
+
+#nav li { 
+      display: inline;
+	  list-style:none;
+}
+
+#nav a{
+	display: inline-block;
+	margin: 20 40 3 40px;
+	background: Black;
+	width: 120px;
+	text-decoration: none;
+	color: red;
+	height: 30px;
+	line-height: 3 50 3 50px; 
+	padding: 0 50px;
+	font-family: sans-serif;
+	font-size: 28px;
+}
+
+#nav a: hover:first-child{background: white
+
+}
+
+#nav a:hover { background: gold;
+
+}
+
+table{
+		border: 2px solid black;
+	}
+caption{
+	font-size: 30px;
+	color: #FD6C9E;
+	text-decoration: underline;
+	padding-bottom: 10px;
+		
+}
+
+th{
+	
+	height: 45px;
+	border: ridge 1.5px;
+	
+	
+}
+
+#interv{
+	background-color: yellow;   
+	
+}
+
+
+	
+		
+
+	
+} 
+	
+ td{
+        border: 1px dotted red; 		 
+	
+}
